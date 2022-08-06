@@ -1,3 +1,4 @@
+Перенос оценок с одного аккаунта Кинопоиска на другой.
 Актуализация репозитория https://github.com/msgolovina/kinopoisk2kinopoisk_movie_ratings_export
 
 Поддержка Кинопоиска:
